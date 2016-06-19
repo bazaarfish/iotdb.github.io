@@ -18,7 +18,7 @@ Just better.
 IOTDB is designed around a couple of simple concepts. 
 These two are the most important:
 
-* Things have fundamental similarities that we can described _semantically_. Semantic descriptions allow us to the solve some of the biggest issues of the IoT, including "the basket full of remotes" problem, and the "silo" problem. 
+* Things have fundamental similarities that can described _semantically_. Semantic descriptions allow us to the solve some of the biggest issues of the IoT, including "the basket full of remotes" problem, and the "silo" problem. 
 * the Internet of Things is about adding APIs to Things.  Everything inside of IOTDB is built around the "mental model" of APIs: that we manipulate and monitoring Things by manipulating JSON dictionaries.
 
 Or to put it another way, IOTDB provides a Universal Language for Things and Sensors that easily understood by programmers.
